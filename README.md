@@ -15,4 +15,4 @@ The theoretical solutions are provided in the PDF file: `DGM_HW1_Theoretical.pdf
 
 #### Practical Part
 
-- **DGM_HW1.ipynb**: This Jupyter notebook contains the implementation of LSTM for stock price prediction (using Yahoo Finance data for tech stocks like AAPL, GOOG, MSFT, AMZN) and PixelCNN for autoregressive image modeling on the MNIST dataset. It includes data preprocessing, model training, evaluation (e.g., RMSE), sampling, and autocompletion tasks.
+- **DGM_Assignment1_PR.ipynb**: This Jupyter notebook contains the implementation of LSTM for stock price prediction (using Yahoo Finance data for tech stocks like AAPL, GOOG, MSFT, AMZN) and PixelCNN for autoregressive image modeling on the MNIST dataset. It includes data preprocessing, model training, evaluation (e.g., RMSE), sampling, and autocompletion tasks.
